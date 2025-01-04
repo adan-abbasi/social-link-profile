@@ -9,7 +9,7 @@
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-  font-family: "Inter", serif;
+  font-family: "Outfit", serif;
 }
 body{
   box-sizing: border-box;
@@ -64,6 +64,6 @@ p{
   margin-top: 18px;
   border-radius: 5px;
   color: var(--White);
-  background-color: #3b3939;
+  background-color: #201f1f;
   font-weight: 600;
 }
